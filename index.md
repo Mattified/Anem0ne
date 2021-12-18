@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Anemone
 
 You can use the [editor on GitHub](https://github.com/Mattified/Anem0ne/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
